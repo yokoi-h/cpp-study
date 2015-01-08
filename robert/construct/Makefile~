@@ -1,0 +1,2 @@
+Destructor: Destructor1.cpp
+	g++ -o Dest Destructor1.cpp
